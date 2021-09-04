@@ -1,0 +1,14 @@
+C:\Users\graeb\curso\18Anos\18Anos\bin\Debug\netcoreapp3.1\18Anos.exe
+C:\Users\graeb\curso\18Anos\18Anos\bin\Debug\netcoreapp3.1\18Anos.deps.json
+C:\Users\graeb\curso\18Anos\18Anos\bin\Debug\netcoreapp3.1\18Anos.runtimeconfig.json
+C:\Users\graeb\curso\18Anos\18Anos\bin\Debug\netcoreapp3.1\18Anos.runtimeconfig.dev.json
+C:\Users\graeb\curso\18Anos\18Anos\bin\Debug\netcoreapp3.1\18Anos.dll
+C:\Users\graeb\curso\18Anos\18Anos\bin\Debug\netcoreapp3.1\18Anos.pdb
+C:\Users\graeb\curso\18Anos\18Anos\obj\Debug\netcoreapp3.1\18Anos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\graeb\curso\18Anos\18Anos\obj\Debug\netcoreapp3.1\18Anos.AssemblyInfoInputs.cache
+C:\Users\graeb\curso\18Anos\18Anos\obj\Debug\netcoreapp3.1\18Anos.AssemblyInfo.cs
+C:\Users\graeb\curso\18Anos\18Anos\obj\Debug\netcoreapp3.1\18Anos.csproj.CoreCompileInputs.cache
+C:\Users\graeb\curso\18Anos\18Anos\obj\Debug\netcoreapp3.1\18Anos.dll
+C:\Users\graeb\curso\18Anos\18Anos\obj\Debug\netcoreapp3.1\18Anos.pdb
+C:\Users\graeb\curso\18Anos\18Anos\obj\Debug\netcoreapp3.1\18Anos.genruntimeconfig.cache
+C:\Users\graeb\curso\18Anos\18Anos\obj\Debug\netcoreapp3.1\18Anos.csproj.AssemblyReference.cache
